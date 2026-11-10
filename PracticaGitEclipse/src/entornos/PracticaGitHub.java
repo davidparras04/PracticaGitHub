@@ -9,5 +9,6 @@ public class PracticaGitHub {
 
 	public static void saludar(String nombre) {
 		System.out.println("Hola, " + nombre);
+		
 	}
 }
